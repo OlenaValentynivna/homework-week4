@@ -30,7 +30,7 @@ export default function App() {
           </a>{" "}
           and{" "}
           <a
-            href="https://f22ed3.csb.app/"
+            href="https://iridescent-pothos-fa2f5b.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
