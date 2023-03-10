@@ -30,7 +30,7 @@ export default function App() {
           </a>{" "}
           and{" "}
           <a
-            href="https://meek-cobbler-73d805.netlify.app/"
+            href="https://f22ed3.csb.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
