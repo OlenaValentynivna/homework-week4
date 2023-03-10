@@ -22,7 +22,7 @@ export default function App() {
           </a>{" "}
           and is{" "}
           <a
-            href="https://github.com/OlenaValentynivna/react-weather"
+            href="https://github.com/OlenaValentynivna/homework-week4"
             target="_blank"
             rel="noopener noreferrer"
           >
