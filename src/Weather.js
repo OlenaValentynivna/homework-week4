@@ -21,9 +21,6 @@ export default function Weather() {
             alt="Clear"
           />
           <strong>10°C</strong>
-          <span className="units">
-            <a href="#">°C</a>|<a href="#">°F</a>
-          </span>
         </div>
 
         <div className="col-6">
